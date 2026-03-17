@@ -21,3 +21,7 @@ The framework has explicit entry points for contributors — particularly native
 ## License
 
 [CC BY 4.0](LICENSE) — share, adapt, build on it. Just credit the source.
+
+---
+
+> *"I think there's something here — come build on it or tear it down."*
