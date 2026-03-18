@@ -1,8 +1,19 @@
-# Three-Architecture Neurodiversity Theory — v1.7.2
+# Three-Architecture Neurodiversity Theory — v1.7.3
 
 **Conflict of interest — read first**: The theorist is self-identified as scout-dominant AuDHD. The thing being theorized about is the theorist's own neurotype. Confirmation bias risk is accordingly high. This is disclosed in detail in §8, and safeguards are described in the Document Structure section below.
 
 ## Changelog
+
+### v1.7.3 (from v1.7.2)
+
+- **Bug-fix release. No new theoretical content.**
+- **§3.3 "two locked architectures" → "two fixed-policy architectures"**: Terminological residual from v1.7.2 BUG-005 fix — §4.5 was corrected but §3.3 was missed. Same ambiguity with §2.1's technical "locked" (model-completeness endpoint).
+- **§6.1 falsification criteria cross-referenced**: "Three candidate falsification criteria exist" now points to §5.1 (stress-polarization asymmetry), §5.8 (discrete behavioral clustering), §5.3 (bidirectional mismatch). Previously stated but unanchored.
+- **§4.13.1 Dodson in-text characterization corrected**: Removed "on emotional components of adult ADHD" — the cited paper is a pharmacotherapy review. RSD caveat retained.
+- **§9.4 attribution clarified**: "AuDHD/2e" replaced with specific gradient positions (theorist: scout-dominant; brother and father: systemizer-dominant). Undefined "2e" term removed.
+- **"Autonomicity" → "automaticity" throughout**: Standard cognitive science terminology adopted. Six occurrences corrected (§4.3, §5.1, §10, Appendix A, Appendix B, changelog).
+- **Appendix B item 6 tense corrected**: "v1.5 is" → "v1.5 was", consistent with item 4 under "New from v1.5."
+- **Appendix A §9.1 annotation**: Shared-datum entry annotated with "observational description corrected v1.7.3."
 
 ### v1.7.2 (from v1.7.1)
 
@@ -38,7 +49,7 @@
 - **Architecture description revision: Systemizer prior precision tracks model-completeness.** §2.1 revised: prior precision is model-completeness-dependent (low on nascent domains, monotonically rising, locking once internally coherent), not a permanent high setting. Defensive response sequence specified for locked models encountering contradicting evidence.
 - **New derived mechanism: Architecture-specific trust channels (§4.14).** Each architecture has a trust channel — the type of evidence it assigns high precision to when evaluating whether to revise an existing model. Cross-architecture communication fails when revision evidence is delivered through a channel the receiver does not trust. This mechanism is upstream of protocol-switching (§4.9).
 - **Scope correction: AuDHD hierarchy is gradient-position-dependent (§4.5).** The hierarchical precision split described in v1.6 reflects the scout-dominant position. Systemizer-dominant AuDHD predicted to show inverse phenomenology. [UNDERCONSTRAINED] — structurally derived but observationally unconfirmed.
-- **Precision upgrade: Stress-polarization shedding tracks autonomicity depth (§4.3).** Shedding order refined from binary native/non-native to gradient of autonomicity depth. Capacities shed from least autonomic to most autonomic, with native architecture as asymptotic floor. Scout rigid-prior-under-stress case derived.
+- **Precision upgrade: Stress-polarization shedding tracks automaticity depth (§4.3).** Shedding order refined from binary native/non-native to gradient of automaticity depth. Capacities shed from least autonomic to most autonomic, with native architecture as asymptotic floor. Scout rigid-prior-under-stress case derived.
 - **New prediction: Trust channel matching (§5.10).** Model revision succeeds at higher rates when evidence type matches the receiver's native trust channel, independent of content quality.
 - **No existing observational evidence revised.** All Layer 2 entries carried unchanged from v1.6.
 
@@ -300,7 +311,7 @@ The three-architecture claim is presented as a first-order approximation: a hypo
 
 Before the PP mapping, "three architectures" was a structural claim supported by functional closure. The PP mapping raises the bar: if the architectures are attractor states in a continuous precision-weighting space, the model must account for why these three basins of attraction are dominant and stable.
 
-The two most relevant axes are prior precision and PE precision. The two locked architectures map to positions in this space: high-prior + high-PE (systemizer) and volatile-prior (low default) + PE-salience-as-consequence-of-default (scout). The socialite does not occupy a fixed point in this space — as §3.1 establishes, it is a strategy over the space, anchored by a channel-specific commitment (social) rather than by a global prior/PE setting. This means the 2D mapping captures two of the three architectures directly; the socialite is a qualitatively different kind of entity in this space. The fourth position — **low prior + low PE precision** — is unaccounted for.
+The two most relevant axes are prior precision and PE precision. The two fixed-policy architectures map to positions in this space: high-prior + high-PE (systemizer) and volatile-prior (low default) + PE-salience-as-consequence-of-default (scout). The socialite does not occupy a fixed point in this space — as §3.1 establishes, it is a strategy over the space, anchored by a channel-specific commitment (social) rather than by a global prior/PE setting. This means the 2D mapping captures two of the three architectures directly; the socialite is a qualitatively different kind of entity in this space. The fourth position — **low prior + low PE precision** — is unaccounted for.
 
 **Candidate argument**: A system with low precision everywhere cannot maintain homeostasis and collapses into pathology rather than forming a stable architecture. This is plausible but unformalized.
 
@@ -332,7 +343,7 @@ Under cognitive or emotional stress, native architecture amplifies while non-nat
 
 **PP mechanism**: Cognitive load depletes the top-down control resources that maintain non-native precision policies. The first thing to go is the effortful precision override (learned architecture). What remains is the native precision policy — the gain settings that don't require top-down maintenance. Stress-polarization is the system losing its ability to override its own default tuning. When the native strategy cannot resolve the specific stressor type, the system enters an open loop — see §4.13.
 
-**Shedding order precision**: The shedding order tracks **autonomicity depth**, not a binary native/non-native distinction. Capacities shed from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced, earliest acquired). Native architecture is the asymptotic floor — the set of channels that were autonomic before volitional development began. Two non-native capacities acquired at different times and practiced to different depths will shed in order of autonomicity, not simultaneously. A scout who has deeply autonomized one systemizer channel and recently begun developing another will lose the recent one first.
+**Shedding order precision**: The shedding order tracks **automaticity depth**, not a binary native/non-native distinction. Capacities shed from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced, earliest acquired). Native architecture is the asymptotic floor — the set of channels that were autonomic before volitional development began. Two non-native capacities acquired at different times and practiced to different depths will shed in order of automaticity, not simultaneously. A scout who has deeply autonomized one systemizer channel and recently begun developing another will lose the recent one first.
 
 **Scout rigid-prior-under-stress case**: A scout's hard-won systematized channel under stress produces a distinctive phenomenological signature. The systemizer-mode maintenance of the channel (careful logical upkeep, structural precision) sheds — this is non-native infrastructure, maintained through top-down override. The scout-native investment anchor (emotional weight of the personal cost) holds — this is processed through the native channel. Result: the scout under stress holds the *commitment* to the channel but loses the *precision* on it — defends it instinctually, cannot articulate the defense logically, knows internally they are right but cannot serialize why. This is a distinct phenomenological prediction for the pure scout profile. The serialization failure under stress may not generalize: other scouts may retain serialization capacity through different developmental paths or different associative-leap profiles. The architecture-specificity of this pattern has not been tested independently of the theorist's case.
 
@@ -470,7 +481,7 @@ The characteristic defensive prior: anticipatory threat-scanning. The system lea
 
 **Feedback risk**: The anticipatory scanning can itself become a PE source. As the defensive prior strengthens, the detection threshold lowers — ambiguous signals are classified as threats, producing PEs that cannot be resolved (because the threat is not real and therefore cannot be scouted away from). This generates secondary open loops from the defensive mechanism itself. The volatility accelerates: more scanning → more false positives → more unresolvable PEs → stronger defensive prior → more scanning.
 
-**Relation to rejection sensitivity**: The social-specific case — where the unresolvable stressor is interpersonal rejection — produces anticipatory scanning calibrated to social threat signals. The scout cannot explore away from "this person has rejected you"; the open loop encodes "scan for rejection signals before commitment makes exit impossible." This is consistent with clinical descriptions of rejection sensitivity in ADHD populations (Dodson, 2005, on emotional components of adult ADHD; note: the specific "rejection sensitive dysphoria" construct originates in Dodson's clinical practice work and lacks peer-reviewed validation as a distinct mechanism), reframed here as an architecture-specific open loop product rather than a standalone trait.
+**Relation to rejection sensitivity**: The social-specific case — where the unresolvable stressor is interpersonal rejection — produces anticipatory scanning calibrated to social threat signals. The scout cannot explore away from "this person has rejected you"; the open loop encodes "scan for rejection signals before commitment makes exit impossible." This is consistent with clinical descriptions of rejection sensitivity in ADHD populations (Dodson, 2005; note: the specific "rejection sensitive dysphoria" construct originates in Dodson's clinical practice work and lacks peer-reviewed validation as a distinct mechanism), reframed here as an architecture-specific open loop product rather than a standalone trait.
 
 **Evidential status**: The feedback mechanism (scanning → false positives → increased scanning) is structurally derived — it follows from the open loop mechanism applied to the scout's volatile prior profile. The specific connection to rejection sensitivity is illustrative — consistent with the model and with clinical observation, but the architecture-specificity claim (that scouts show this pattern at higher rates than other architectures *independent of developmental history*) has not been tested. The interaction between native architecture and developmental calibration in determining rejection sensitivity severity is acknowledged as unformalized (see §4.13 scope limitation). See §9.12 for observational evidence.
 
@@ -522,7 +533,7 @@ All predictions extracted from the theoretical framework, collected for evaluati
 
 ### 5.1 Stress-Polarization Signature
 
-**Prediction**: Under cognitive or emotional stress, native architecture amplifies while non-native architectures shed in order of autonomicity depth — from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced). Native architecture is the asymptotic floor. Degradation is asymmetric and architecture-specific.
+**Prediction**: Under cognitive or emotional stress, native architecture amplifies while non-native architectures shed in order of automaticity depth — from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced). Native architecture is the asymptotic floor. Degradation is asymmetric and architecture-specific.
 
 **Differentiating against**:
 - Triadic model predicts: Asymmetric degradation — native functions hold or amplify, non-native functions collapse first.
@@ -597,7 +608,7 @@ All predictions extracted from the theoretical framework, collected for evaluati
 
 **Open loop boundary conditions.** The open loop stress cascade mechanism (§4.13) describes what the system does when the native strategy fails, but does not specify the boundary conditions for when this becomes pathological versus adaptive. The interaction between native architecture and developmental history in determining defensive prior severity is acknowledged as important but unformalized. Without these boundary conditions, the mechanism risks absorbing developmental trauma psychology without earning the explanatory claim — the architecture-specificity of open loop products (e.g., rejection sensitivity in scouts) must be tested independently of developmental history before it can be attributed to the architecture rather than to the environment.
 
-**Unfalsifiability — partially addressed.** Three candidate falsification criteria exist. The boundary-absorption problem persists: what neurodevelopmental variations fall outside the three-phase framework? The PP mapping offers a partial path (conditions as perturbations of existing attractors vs. distinct attractor states) but this analysis has not been performed.
+**Unfalsifiability — partially addressed.** Three candidate falsification criteria exist (§5.1 stress-polarization asymmetry, §5.8 discrete behavioral clustering, §5.3 bidirectional mismatch). The boundary-absorption problem persists: what neurodevelopmental variations fall outside the three-phase framework? The PP mapping offers a partial path (conditions as perturbations of existing attractors vs. distinct attractor states) but this analysis has not been performed.
 
 ### 6.2 Severity: Moderate
 
@@ -700,7 +711,7 @@ The theorist is a proposed scout-dominant AuDHD individual who spent approximate
 
 ### 9.4 Bidirectional Mismatch (supports §5.3)
 
-**[STRUCTURAL]** Theorist's mother (proposed native socialite) in a household with three proposed AuDHD/2e individuals (theorist, brother, father). Reported trajectory:
+**[STRUCTURAL]** Theorist's mother (proposed native socialite) in a household with three proposed AuDHD individuals (theorist: scout-dominant; brother and father: systemizer-dominant). Reported trajectory:
 
 - Mismatch: Socialite architecture in systemizer/scout-dominant social environment. Father expressed care through systemizer channels (financial stability, practical problem-solving). Mother's high-precision social channel received insufficient signal — the emotional confirmation she required was not delivered in protocol-compliant form.
 - Cost: Depression across approximately a decade.
@@ -787,7 +798,7 @@ The following theoretical predictions currently have **no observational evidence
 - Socialite open loop defensive prior formation (§4.13.3) — predicted but entirely unconstrained by observation.
 - Trust channel matching (§5.10) — the prediction that persuasion success tracks evidence-type match with the receiver's trust channel has not been tested. The §9.10 and §9.5 observations are consistent with the mechanism but were not designed to test evidence-type effects independent of content quality.
 - Systemizer-dominant AuDHD hierarchical inversion (§4.5) — predicted but [UNDERCONSTRAINED]. No observational data from systemizer-dominant AuDHD individuals on within-model vs. meta-level precision experiences.
-- Autonomicity-depth shedding order (§4.3) — the prediction that non-native capacities shed in autonomicity order rather than simultaneously has not been measured with controlled acquisition histories.
+- Automaticity-depth shedding order (§4.3) — the prediction that non-native capacities shed in automaticity order rather than simultaneously has not been measured with controlled acquisition histories.
 
 **Methodological note**: Some mechanisms that do have observational support share a single data point — §9.1 and §9.8 cite the same observation for stress-polarization and plasticity respectively. The observation supports both, but constitutes one datum doing double duty, not independent support for each.
 
@@ -822,7 +833,7 @@ These are the theory's most important empirical next steps. The children's study
 | Sequential dependency (explore → build → maintain) | Plausible, not demonstrated | §3.2 | — | — |
 | Loop complete at three | Under formal pressure; reframed as first-order approximation | §3.3 (why-three problem) | — | ↓ v1.3, reframed v1.5 |
 | Native = pre-volitional, learned = volitional | Mechanized via PP | §4.1 | §9.2 [MOTIVATING] | ↑ v1.3 |
-| Stress-polarization: native amplifies, non-native sheds | Mechanized via PP | §4.3 | §9.1 [STRUCTURAL] *(shared datum with §9.8)* | ↑ v1.3 |
+| Stress-polarization: native amplifies, non-native sheds | Mechanized via PP | §4.3 | §9.1 [STRUCTURAL] *(shared datum with §9.8; observational description corrected v1.7.3)* | ↑ v1.3 |
 | Emulation fatigue is discrete, not graded | Mechanized via PP | §4.2 | §9.2 [MOTIVATING] | ↑ v1.3 |
 | Bidirectional mismatch | Structurally predicted | §5.3 | §9.4 [STRUCTURAL] | ↑ v1.3 |
 | Architecture-specific leadership failure modes | PP-grounded | §4.10 | — | ↑ v1.3 |
@@ -852,7 +863,7 @@ These are the theory's most important empirical next steps. The children's study
 | Architecture-specific trust channels | New derived mechanism | Derived from channel-of-prior-formation | — | NEW v1.7 |
 | Cross-architecture communication failure via trust-channel mismatch | Derived prediction | Derived from §4.14 + §4.9 | §9.5 [MOTIVATING], §9.10 [ILLUSTRATIVE] | NEW v1.7 |
 | AuDHD hierarchy is gradient-position-dependent | Scope correction | Structurally derived, [UNDERCONSTRAINED] | — | NEW v1.7 |
-| Stress-polarization shedding tracks autonomicity depth | Precision upgrade of §4.3 | Refinement of existing mechanism | — | NEW v1.7 |
+| Stress-polarization shedding tracks automaticity depth | Precision upgrade of §4.3 | Refinement of existing mechanism | — | NEW v1.7 |
 | Scout rigid-prior through investment cost | Derived from channel-of-prior-formation | Channel revision applied to scout + §4.3 | — | NEW v1.7 |
 | Trust channel matching prediction | New prediction | Derived from §4.14 | — | NEW v1.7 |
 | Scout > Hunter as ADHD framing | Mechanistically tighter | §2.2 | — | — (Hartmann, 1993; PP-grounded justification added v1.5) |
@@ -867,7 +878,7 @@ These are the theory's most important empirical next steps. The children's study
 3. **Engage with suffering that isn't environmental mismatch.** Closed v1.1–v1.2. Intrinsic costs specified.
 4. **Reformulate evolutionary argument.** Scoped out of core framework (§6.2). Will be developed as a separate track, decoupled from the PP-grounded theory.
 5. **Expand beyond single-observer attributions.** The informal observational base is broader than earlier versions acknowledged (~50 deliberate attributions, larger background pool — see §8), but all attributions are made by a single observer applying the framework they created. The critical next step is independent architecture attribution by observers other than the theorist. The children's study design (§5.8) is the most promising path because it proposes behavioral clustering observable by any trained researcher.
-6. **Publish or formalize.** Still open. v1.5 is the first version with PP literature positioning and epistemic transparency suitable for open-source sharing and external contribution.
+6. **Publish or formalize.** Still open. v1.5 was the first version with PP literature positioning and epistemic transparency suitable for open-source sharing; current version extends that scaffolding (see New from v1.5, item 4).
 7. **Test stress-polarization first.** Still the foundational empirical question (§5.1).
 8. **Guard against architecture chauvinism.** Ongoing. Structural asymmetry acknowledged. Functional characterizations rewritten for equal representational depth (v1.5).
 9. **Document observational instances systematically.** Still open. Layer 2 is a first step.
@@ -879,7 +890,7 @@ These are the theory's most important empirical next steps. The children's study
 
 1. **Seek observational data for systemizer-dominant AuDHD hierarchy.** The §4.5 prediction — that systemizer-dominant AuDHD individuals experience volatile within-model precision and high on-model-validity precision (inverse of the scout-dominant pattern) — is structurally derived but [UNDERCONSTRAINED]. Self-report from introspective systemizer-dominant AuDHD individuals is needed to move this from prediction to observation.
 2. **Design trust-channel matching experiments.** The §5.10 prediction — that persuasion success tracks evidence-type match with the receiver's trust channel — is the most directly testable new prediction from v1.7. A study varying argument type (logical proof, experiential demonstration, social consensus) while holding content quality constant, across architecture-identified populations, would test the core claim.
-3. **Validate autonomicity-depth shedding order.** The §4.3 refinement predicts that non-native capacities shed in order of autonomicity depth, not simultaneously. This is testable by measuring the stress-degradation sequence of multiple non-native capacities with known acquisition histories within individuals.
+3. **Validate automaticity-depth shedding order.** The §4.3 refinement predicts that non-native capacities shed in order of automaticity depth, not simultaneously. This is testable by measuring the stress-degradation sequence of multiple non-native capacities with known acquisition histories within individuals.
 
 ### New from v1.6:
 
@@ -991,4 +1002,4 @@ Sharing the framework openly is a deliberate choice. The more a person understan
 
 ---
 
-*v1.7.2 — Bug-fix release. §4.3 scout rigid-prior prediction scoped to pure scouts; AuDHD caveat added with tier-by-tier stress cascade. §9.1 stress-polarization self-report corrected to accurately capture scout-dominant AuDHD phenomenology (scout acceleration + systemizer co-activation + inter-tier integration degradation). §9.8 updated for consistency. §4.11 engagement modes integrated with prior-formation channel language. §4.5 "locked" → "fixed-policy" to avoid terminological collision with §2.1. §4.5 gradient scope note added (other triadic edges). §4.14 opening softened. §4.13.1 Dodson citation clarified. §9.3 error-signal phrasing clarified. §5.2 §4.12 cross-reference added. §3.2 loop restart detection specified. §2.1 defensive sequence support scoped. No new theoretical content.*
+*v1.7.3 — Bug-fix release. §3.3 "locked" → "fixed-policy" (residual from v1.7.2 terminology fix). §6.1 falsification criteria cross-referenced (§5.1, §5.8, §5.3). §4.13.1 Dodson in-text characterization corrected. §9.4 attribution clarified (scout-dominant/systemizer-dominant; "2e" removed). "Autonomicity" → "automaticity" throughout. Appendix B item 6 tense corrected. Appendix A §9.1 annotation added. No new theoretical content.*
