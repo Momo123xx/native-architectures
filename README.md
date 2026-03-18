@@ -2,7 +2,7 @@
 
 An open-source theoretical framework proposing that autism, ADHD, and neurotypicality are three distinct cognitive architectures — different precision-weighting configurations on the same predictive processing machinery — not two deficits and a baseline.
 
-**[Read the full framework (v1.7)](Native-architectures.md)**
+**[Read the full framework (v1.7.4)](Native-architectures.md)**
 
 ## What this is
 
