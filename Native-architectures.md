@@ -565,7 +565,7 @@ All predictions extracted from the theoretical framework, collected for evaluati
 
 **Population heterogeneity underaddressed.** Within-category variance remains enormous. The PP mapping provides a framework (basin position, basin depth, orbit width) but has not been applied.
 
-**Sample bias.** The observational base is a single primary observer. See Layer 2.
+**Sample bias.** The observational base is a single primary observer. The formalized observations in Layer 2 draw on a small set of close relationships. However, the informal observational base from which the theory's internal model was built is substantially larger — see §8 for scope. The limitation is not sample size but single-perspective filtering: all observations pass through one cognitive architecture.
 
 ### 6.3 Severity: Low-Moderate
 
@@ -609,7 +609,7 @@ Each observational item is labeled with one of the following:
 - **[MOTIVATING]** — The observation that originally generated or shaped the theoretical claim. Subject to post-hoc interpretation bias by definition. Included for intellectual honesty about the theory's origins, not as independent support.
 - **[STRUCTURAL]** — The observation has structural features (asymmetry, directionality, discreteness) that are difficult to account for without something like the proposed mechanism, even if the specific mechanism is uncertain.
 
-**General caveat**: The primary observational base is a single theorist with proposed AuDHD architecture, reporting on their own experience and that of immediate family members. All observations are filtered through this single perspective. The theorist has demonstrated epistemic discipline (refusing to speculate beyond data, accepting corrections, flagging own biases) but single-observer data is inherently limited regardless of observer quality. Nothing in Layer 2 should be read as confirmation of Layer 1. It is the evidential material the theory was built from and must eventually move beyond.
+**General caveat**: The formalized observations in Layer 2 draw on a small number of close relationships — family members, partners, colleagues — where the theorist has deep longitudinal access. These are not the full observational base. The theory's internal model was built across a much larger sample (see §8 for scope), but Layer 2 documents only those observations where the theorist has enough depth and confidence to describe the precision-weighting dynamics in detail. All observations are filtered through a single cognitive architecture. The theorist has demonstrated epistemic discipline (refusing to speculate beyond data, accepting corrections, flagging own biases) but single-observer data is inherently limited regardless of observer quality or sample breadth. Nothing in Layer 2 should be read as confirmation of Layer 1. It is a subset of the evidential material the theory was built from and must eventually move beyond.
 
 ---
 
@@ -618,6 +618,8 @@ Each observational item is labeled with one of the following:
 The theorist is a proposed scout-dominant AuDHD individual who spent approximately 26 years running socialite emulation before recognizing the native architecture underneath. This creates specific strengths and limitations:
 
 **Strengths**: Deep cross-architecture experiential data. First-person access to the emulation/native boundary. Ability to report phenomenological differences between automatic and override operation.
+
+**Observational scope**: The theorist's informal observational base extends well beyond the formalized Layer 2 cases. Following self-identification at age 26, the theorist retrospectively reanalyzed interactions across approximately two decades — primary school, secondary school (VWO), a side business operated from age 16, approximately 30 competitive Rubik's cube events (systemizer-dominant and scout-dominant populations), coworkers, friends, romantic partners, and online communities. The theorist also reports a lifelong unexplained gravitational pull toward neurodivergent individuals and ND-typical interests (anime, games, TCGs, soldering, drone flying) despite self-identifying as NT for 26 years — a pattern that became coherent only after the architecture framework provided the interpretive structure. The total number of individuals the theorist has analyzed with deliberate architecture attribution is estimated at approximately 50, with a larger pool of rougher background categorizations. The internal model was built pre-theoretically through this accumulated sensemaking; the serialization into this document came after. This means the theory's observational grounding is broader than Layer 2 suggests, but also that much of it is retrospective reinterpretation — the framework provided coherence to previously unresolved observations, which is consistent with either genuine explanatory power or post-hoc pattern-fitting. Both possibilities are acknowledged.
 
 **Limitations**: All observations are filtered through a single cognitive architecture. The systemizer component may over-structure the framework. The scout component may under-value the socialite architecture's depth. The emulation history may bias the theorist toward seeing emulation everywhere.
 
@@ -814,7 +816,7 @@ These are the theory's most important empirical next steps. The children's study
 2. **Define falsification criteria.** Partially addressed v1.1. Boundary-absorption problem remains.
 3. **Engage with suffering that isn't environmental mismatch.** Closed v1.1–v1.2. Intrinsic costs specified.
 4. **Reformulate evolutionary argument.** Scoped out of core framework (§6.2). Will be developed as a separate track, decoupled from the PP-grounded theory.
-5. **Expand sample beyond n<10.** Still open. Children study design (§5.8) is most promising path.
+5. **Expand beyond single-observer attributions.** The informal observational base is broader than earlier versions acknowledged (~50 deliberate attributions, larger background pool — see §8), but all attributions are made by a single observer applying the framework they created. The critical next step is independent architecture attribution by observers other than the theorist. The children's study design (§5.8) is the most promising path because it proposes behavioral clustering observable by any trained researcher.
 6. **Publish or formalize.** Still open. v1.5 is the first version with PP literature positioning and epistemic transparency suitable for open-source sharing and external contribution.
 7. **Test stress-polarization first.** Still the foundational empirical question (§5.1).
 8. **Guard against architecture chauvinism.** Ongoing. Structural asymmetry acknowledged. Functional characterizations rewritten for equal representational depth (v1.5).
