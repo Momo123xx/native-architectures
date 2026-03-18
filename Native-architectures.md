@@ -1,8 +1,16 @@
-# Three-Architecture Neurodiversity Theory — v1.7.3
+# Three-Architecture Neurodiversity Theory — v1.7.4
 
 **Conflict of interest — read first**: The theorist is self-identified as scout-dominant AuDHD. The thing being theorized about is the theorist's own neurotype. Confirmation bias risk is accordingly high. This is disclosed in detail in §8, and safeguards are described in the Document Structure section below.
 
 ## Changelog
+
+### v1.7.4 (from v1.7.3)
+
+- **Bug-fix release. No new theoretical content.**
+- **§2 table scout trajectory corrected**: "reverts under load unless deeply practiced" → "reverts under load in automaticity order (§4.3)". Previous phrasing implied deep practice prevents stress-reversion; §4.3 and §2.2 specify it only delays shedding (native architecture is the asymptotic floor).
+- **"Autonomic" → "automatic" (adjective)**: Adjectival form missed by v1.7.3 noun fix. In neuroscience, "autonomic" connotes the autonomic nervous system; "automatic" is the standard term for processes running without conscious control. Three occurrences corrected (§4.3, §5.1, v1.7 changelog).
+- **Appendix A §9.1 annotation version corrected**: "corrected v1.7.3" → "corrected v1.7.2". The observational description was corrected in v1.7.2; the annotation was added in v1.7.3. Version attribution now references when the correction occurred.
+- **Appendix A sequential dependency terminology aligned**: "explore → build → maintain" → "explore → structure → cohere", matching §3.2. "Maintain" misrepresented the socialite's cohesion function.
 
 ### v1.7.3 (from v1.7.2)
 
@@ -49,7 +57,7 @@
 - **Architecture description revision: Systemizer prior precision tracks model-completeness.** §2.1 revised: prior precision is model-completeness-dependent (low on nascent domains, monotonically rising, locking once internally coherent), not a permanent high setting. Defensive response sequence specified for locked models encountering contradicting evidence.
 - **New derived mechanism: Architecture-specific trust channels (§4.14).** Each architecture has a trust channel — the type of evidence it assigns high precision to when evaluating whether to revise an existing model. Cross-architecture communication fails when revision evidence is delivered through a channel the receiver does not trust. This mechanism is upstream of protocol-switching (§4.9).
 - **Scope correction: AuDHD hierarchy is gradient-position-dependent (§4.5).** The hierarchical precision split described in v1.6 reflects the scout-dominant position. Systemizer-dominant AuDHD predicted to show inverse phenomenology. [UNDERCONSTRAINED] — structurally derived but observationally unconfirmed.
-- **Precision upgrade: Stress-polarization shedding tracks automaticity depth (§4.3).** Shedding order refined from binary native/non-native to gradient of automaticity depth. Capacities shed from least autonomic to most autonomic, with native architecture as asymptotic floor. Scout rigid-prior-under-stress case derived.
+- **Precision upgrade: Stress-polarization shedding tracks automaticity depth (§4.3).** Shedding order refined from binary native/non-native to gradient of automaticity depth. Capacities shed from least automatic to most automatic, with native architecture as asymptotic floor. Scout rigid-prior-under-stress case derived.
 - **New prediction: Trust channel matching (§5.10).** Model revision succeeds at higher rates when evidence type matches the receiver's native trust channel, independent of content quality.
 - **No existing observational evidence revised.** All Layer 2 entries carried unchanged from v1.6.
 
@@ -186,7 +194,7 @@ The following positions are stated explicitly to locate this framework relative 
 |---|---|---|---|
 | **Prior-building channel** | Internal model coherence (logical structure, causal consistency) | Experiential investment (personal cost, exploratory effort) | Social validation (consensus, group agreement, reciprocal confirmation) |
 | **Prior on new domain** | Low (absorbing, consolidating) | Low (exploring, sampling) | Low (checking what others do) |
-| **Trajectory** | Monotonically rising with model-completeness → locks when internally coherent | Temporarily elevatable through investment → fragile, reverts under load unless deeply practiced | Rising with social consensus → stabilizes when group norm is established |
+| **Trajectory** | Monotonically rising with model-completeness → locks when internally coherent | Temporarily elevatable through investment → fragile, reverts under load in automaticity order (§4.3) | Rising with social consensus → stabilizes when group norm is established |
 | **Rigidity mechanism** | Model is internally coherent; revision requires dismantling logical dependencies | Channel was costly to build; revision means investment is wasted | Group has agreed; revision means social isolation |
 | **Crack point** | Accumulated logical contradictions overwhelm the model's internal coherence | Novel signal salient enough to outbid the sunk investment cost | Social consensus shifts and holding the old position means standing alone |
 
@@ -343,7 +351,7 @@ Under cognitive or emotional stress, native architecture amplifies while non-nat
 
 **PP mechanism**: Cognitive load depletes the top-down control resources that maintain non-native precision policies. The first thing to go is the effortful precision override (learned architecture). What remains is the native precision policy — the gain settings that don't require top-down maintenance. Stress-polarization is the system losing its ability to override its own default tuning. When the native strategy cannot resolve the specific stressor type, the system enters an open loop — see §4.13.
 
-**Shedding order precision**: The shedding order tracks **automaticity depth**, not a binary native/non-native distinction. Capacities shed from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced, earliest acquired). Native architecture is the asymptotic floor — the set of channels that were autonomic before volitional development began. Two non-native capacities acquired at different times and practiced to different depths will shed in order of automaticity, not simultaneously. A scout who has deeply autonomized one systemizer channel and recently begun developing another will lose the recent one first.
+**Shedding order precision**: The shedding order tracks **automaticity depth**, not a binary native/non-native distinction. Capacities shed from least automatic (most recently learned, most effortfully maintained) to most automatic (most deeply practiced, earliest acquired). Native architecture is the asymptotic floor — the set of channels that were automatic before volitional development began. Two non-native capacities acquired at different times and practiced to different depths will shed in order of automaticity, not simultaneously. A scout who has deeply autonomized one systemizer channel and recently begun developing another will lose the recent one first.
 
 **Scout rigid-prior-under-stress case**: A scout's hard-won systematized channel under stress produces a distinctive phenomenological signature. The systemizer-mode maintenance of the channel (careful logical upkeep, structural precision) sheds — this is non-native infrastructure, maintained through top-down override. The scout-native investment anchor (emotional weight of the personal cost) holds — this is processed through the native channel. Result: the scout under stress holds the *commitment* to the channel but loses the *precision* on it — defends it instinctually, cannot articulate the defense logically, knows internally they are right but cannot serialize why. This is a distinct phenomenological prediction for the pure scout profile. The serialization failure under stress may not generalize: other scouts may retain serialization capacity through different developmental paths or different associative-leap profiles. The architecture-specificity of this pattern has not been tested independently of the theorist's case.
 
@@ -533,7 +541,7 @@ All predictions extracted from the theoretical framework, collected for evaluati
 
 ### 5.1 Stress-Polarization Signature
 
-**Prediction**: Under cognitive or emotional stress, native architecture amplifies while non-native architectures shed in order of automaticity depth — from least autonomic (most recently learned, most effortfully maintained) to most autonomic (most deeply practiced). Native architecture is the asymptotic floor. Degradation is asymmetric and architecture-specific.
+**Prediction**: Under cognitive or emotional stress, native architecture amplifies while non-native architectures shed in order of automaticity depth — from least automatic (most recently learned, most effortfully maintained) to most automatic (most deeply practiced). Native architecture is the asymptotic floor. Degradation is asymmetric and architecture-specific.
 
 **Differentiating against**:
 - Triadic model predicts: Asymmetric degradation — native functions hold or amplify, non-native functions collapse first.
@@ -830,10 +838,10 @@ These are the theory's most important empirical next steps. The children's study
 | ADHD involves dopaminergic salience gating | Supported, simplified; unified with PP | Neurochemical unification argument | — | ↑ v1.3 |
 | NT as specialization, not default | Novel reframe, logically sound | Structural argument (§3.1, §3.2) | §9.4 (bidirectional mismatch) | — |
 | Three architectures form closed loop | Structurally elegant, with falsification criteria | Sequential dependency (§3.2) | — | ↑ v1.1 |
-| Sequential dependency (explore → build → maintain) | Plausible, not demonstrated | §3.2 | — | — |
+| Sequential dependency (explore → structure → cohere) | Plausible, not demonstrated | §3.2 | — | — |
 | Loop complete at three | Under formal pressure; reframed as first-order approximation | §3.3 (why-three problem) | — | ↓ v1.3, reframed v1.5 |
 | Native = pre-volitional, learned = volitional | Mechanized via PP | §4.1 | §9.2 [MOTIVATING] | ↑ v1.3 |
-| Stress-polarization: native amplifies, non-native sheds | Mechanized via PP | §4.3 | §9.1 [STRUCTURAL] *(shared datum with §9.8; observational description corrected v1.7.3)* | ↑ v1.3 |
+| Stress-polarization: native amplifies, non-native sheds | Mechanized via PP | §4.3 | §9.1 [STRUCTURAL] *(shared datum with §9.8; observational description corrected v1.7.2)* | ↑ v1.3 |
 | Emulation fatigue is discrete, not graded | Mechanized via PP | §4.2 | §9.2 [MOTIVATING] | ↑ v1.3 |
 | Bidirectional mismatch | Structurally predicted | §5.3 | §9.4 [STRUCTURAL] | ↑ v1.3 |
 | Architecture-specific leadership failure modes | PP-grounded | §4.10 | — | ↑ v1.3 |
@@ -1002,4 +1010,4 @@ Sharing the framework openly is a deliberate choice. The more a person understan
 
 ---
 
-*v1.7.3 — Bug-fix release. §3.3 "locked" → "fixed-policy" (residual from v1.7.2 terminology fix). §6.1 falsification criteria cross-referenced (§5.1, §5.8, §5.3). §4.13.1 Dodson in-text characterization corrected. §9.4 attribution clarified (scout-dominant/systemizer-dominant; "2e" removed). "Autonomicity" → "automaticity" throughout. Appendix B item 6 tense corrected. Appendix A §9.1 annotation added. No new theoretical content.*
+*v1.7.4 — Bug-fix release. §2 table scout trajectory corrected (stress-reversion aligned with §4.3 automaticity-depth mechanism). "Autonomic" → "automatic" (adjectival residual from v1.7.3 noun fix; §4.3, §5.1, changelog). Appendix A §9.1 annotation version corrected (v1.7.3 → v1.7.2). Appendix A sequential dependency terminology aligned with §3.2 (build/maintain → structure/cohere). No new theoretical content.*
